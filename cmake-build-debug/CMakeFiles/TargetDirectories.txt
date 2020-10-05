@@ -1,0 +1,3 @@
+C:/Users/Kalin/CLionProjects/KursovaPIK2020/PIK2Kursova/cmake-build-debug/CMakeFiles/KursovaPIK2020.dir
+C:/Users/Kalin/CLionProjects/KursovaPIK2020/PIK2Kursova/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kalin/CLionProjects/KursovaPIK2020/PIK2Kursova/cmake-build-debug/CMakeFiles/rebuild_cache.dir
